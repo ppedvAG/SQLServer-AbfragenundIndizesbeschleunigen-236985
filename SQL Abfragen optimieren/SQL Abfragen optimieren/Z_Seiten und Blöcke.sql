@@ -17,7 +17,7 @@ SQL kann mur mit einem Thread eine Seite lesen.
 Zwei Zugriffe ergeben einen Latch oder auch Spinocks
 Latch = supended, Spinlocks sind aktiv
 
-
+dbcc showcontig('Tabelle')
 
 */
 
